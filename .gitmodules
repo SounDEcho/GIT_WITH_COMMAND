@@ -1,0 +1,3 @@
+[submodule "Jenkins_Goal"]
+	path = Jenkins_Goal
+	url = https://github.com/SounDEcho/Jenkins_Goal.git
